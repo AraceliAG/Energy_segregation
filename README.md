@@ -14,7 +14,7 @@ A continuación se describen las carpetas necesarias para realizar el proceso de
 
 4. **Dispositivos de Entrenamiento**: Contiene los datos ya procesados para facilitar su manipulación durante el entrenamiento. Esta carpeta también comenzará vacía.
 
-Al ejecutar los códigos correspondientes, las carpetas mencionadas generarán archivos automáticamente:
+Codigos para la segregación
 
 ![Códigos](img/codigos_segregacion.png) <!-- Cambia esta ruta y nombre también -->
 
