@@ -14,15 +14,12 @@ A continuación se describen las carpetas necesarias para realizar el proceso de
 
 4. **Dispositivos de Entrenamiento**: Contiene los datos ya procesados para facilitar su manipulación durante el entrenamiento. Esta carpeta también comenzará vacía.
 
+Al ejecutar los códigos correspondientes, las carpetas mencionadas generarán archivos automáticamente:
 
 ![Códigos](img/codigos_segregacion.png) <!-- Cambia esta ruta y nombre también -->
 
-Al ejecutar los códigos correspondientes, las carpetas mencionadas generarán archivos automáticamente:
-
-![Ejemplo de Archivos Generados](img/csv_raiz.png) <!-- Cambia esta ruta y nombre también -->
-
 Además, se crearán archivos en la raíz del proyecto, los cuales se detallan a continuación
-
+![Ejemplo de Archivos Generados](img/csv_raiz.png) <!-- Cambia esta ruta y nombre también -->
 ## Restablecimiento de Datos
 
 Para restablecer todo el sistema, simplemente ejecuta el siguiente código:
