@@ -3,7 +3,8 @@
 ## Estructura de Carpetas Requeridas para la Segregación
 
 A continuación se describen las carpetas necesarias para realizar el proceso de segregación:
-![Carpetas](imag/carpetaSegre.png) <!-- Asegúrate de cambiar la ruta y el nombre del archivo de imagen según corresponda -->
+
+![Carpetas](img/carpetaSegre.png) <!-- Asegúrate de cambiar la ruta y el nombre del archivo de imagen según corresponda -->
 
 1. **Datos Generales**: En esta carpeta se almacenan las mediciones generales de los dispositivos.
    
@@ -25,6 +26,7 @@ Además, se crearán archivos en la raíz del proyecto, los cuales se detallan a
 ## Restablecimiento de Datos
 
 Para restablecer todo el sistema, simplemente ejecuta el siguiente código:
+
 ![Ejemplo de Archivos Generados](img/reseteo.png) <!-- Cambia esta ruta y nombre también -->
 
 ## Carpeta de Manipulación
