@@ -19,6 +19,7 @@ Al ejecutar los códigos correspondientes, las carpetas mencionadas generarán a
 ![Códigos](img/codigos_segregacion.png) <!-- Cambia esta ruta y nombre también -->
 
 Además, se crearán archivos en la raíz del proyecto, los cuales se detallan a continuación
+
 ![Ejemplo de Archivos Generados](img/csv_raiz.png) <!-- Cambia esta ruta y nombre también -->
 ## Restablecimiento de Datos
 
