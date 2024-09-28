@@ -12,7 +12,7 @@ A continuación se describen las carpetas necesarias para realizar el proceso de
 
 4. **Dispositivos de Entrenamiento**: Contiene los datos ya procesados para facilitar su manipulación durante el entrenamiento. Esta carpeta también comenzará vacía.
 
-[Ejemplo de Visualización](img/carpetaSegre.png)
+![Ejemplo de Visualización](img/carpetaSegre.png)
 
 ## Carpeta de Manipulación
 
