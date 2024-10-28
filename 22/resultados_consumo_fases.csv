@@ -1,0 +1,28 @@
+Fase,Tipo,Carga,Contribución (kW)
+Fase_A,Tablero Principal,UTEM CIER DAVID-Mains_A (kWatts),2308.6306000000004
+Fase_A,Carga Directa,UTEM CIER DAVID-Air Conditioner-AC fotovoltaica 1 (kWatts),1210.6776
+Fase_A,Carga Directa,UTEM CIER DAVID-Air Conditioner-AC fotovoltaica 2 (kWatts),1299.3947
+Fase_A,Carga Directa,UTEM CIER DAVID-Air Conditioner-AC Aula Magna (kWatts),1183.8044
+Fase_A,Carga Directa,UTEM CIER DAVID-Solar/Generation-Inversor (kWatts),-388.995
+Fase_A,Carga Directa,UTEM CIER DAVID-Room/Multi-use Circuit-Contactos David (kWatts),54.2343
+Fase_A,Tablero Secundario 1,UTEM CIER DAVID-Sub Panel-Tab Secundario L1 (kWatts),106.2354
+Fase_A,Tablero Secundario 2,UTEM CIER DAVID-Sub Panel-Tablero Secundario2 L1 (kWatts),769.4177999999999
+Fase_A,Total Acumulado,Total,6543.3998
+Fase_B,Tablero Principal,UTEM CIER DAVID-Mains_B (kWatts),1261.662
+Fase_B,Carga Directa,UTEM CIER DAVID-Air Conditioner-AC fotovoltaica 1 (kWatts),1210.6776
+Fase_B,Carga Directa,UTEM CIER DAVID-Air Conditioner-AC fotovoltaica 2 (kWatts),1299.3947
+Fase_B,Carga Directa,UTEM CIER DAVID-Air Conditioner-AC Aula Magna (kWatts),1183.8044
+Fase_B,Carga Directa,UTEM CIER DAVID-Solar/Generation-Inversor (kWatts),-388.995
+Fase_B,Carga Directa,UTEM CIER DAVID-Room/Multi-use Circuit-Contactos David (kWatts),54.2343
+Fase_B,Tablero Secundario 1,UTEM CIER DAVID-Sub Panel-Tab Secundario L2 (kWatts),67.74360000000001
+Fase_B,Tablero Secundario 2,UTEM CIER DAVID-Sub Panel-Tablero Secundario2 L2 (kWatts),406.29859999999996
+Fase_B,Total Acumulado,Total,5094.8202
+Fase_C,Tablero Principal,UTEM CIER DAVID-Mains_C (kWatts),1672.7
+Fase_C,Carga Directa,UTEM CIER DAVID-Air Conditioner-AC fotovoltaica 1 (kWatts),1210.6776
+Fase_C,Carga Directa,UTEM CIER DAVID-Air Conditioner-AC fotovoltaica 2 (kWatts),1299.3947
+Fase_C,Carga Directa,UTEM CIER DAVID-Air Conditioner-AC Aula Magna (kWatts),1183.8044
+Fase_C,Carga Directa,UTEM CIER DAVID-Solar/Generation-Inversor (kWatts),-388.995
+Fase_C,Carga Directa,UTEM CIER DAVID-Room/Multi-use Circuit-Contactos David (kWatts),54.2343
+Fase_C,Tablero Secundario 1,UTEM CIER DAVID-Sub Panel-Tab Secundario L3 (kWatts),23.9173
+Fase_C,Tablero Secundario 2,UTEM CIER DAVID-Sub Panel-Tablero Secundario2 L3 (kWatts),80.47810000000001
+Fase_C,Total Acumulado,Total,5136.2114
